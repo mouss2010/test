@@ -1,0 +1,13 @@
+{
+  "generator-angular-library": {
+    "githubUsername": "mnassih@gmail.com",
+    "githubRepoName": "test",
+    "npmModuleName": "ztotest",
+    "moduleGlobal": "ztotest",
+    "ngModuleName": "ZtotestModule",
+    "selectorPrefix": "zto",
+    "projectTitle": "ztotest",
+    "projectDescription": "",
+    "authorName": "almostafa.nassih@zento.fr"
+  }
+}
